@@ -16,6 +16,10 @@ img {
     max-width: 100%;
 }
 
+#imghdw {
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
 .container {
     max-width: 1140px;
     margin-left: auto;
@@ -34,8 +38,6 @@ img {
     position: relative;
     width: 100%;
     height: 100vh;
-    /* background-color: #556983; */
-    /* background-image: url("./../image/header/header-bg.jpg"); */
     background-size: cover;
     background-position: center;
 
